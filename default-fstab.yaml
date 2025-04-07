@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://drive.google.com/drive/u/0/folders/15yExCTAD6Oa3IHat84AgB7qgZ3fZ-gN_
+    url: https://adobe.sharepoint.com/:f:/r/sites/ccdm-storefront/Shared%20Documents/storefront?csf=1&web=1&e=rtpEgx
     type: markup
 
 folders:
